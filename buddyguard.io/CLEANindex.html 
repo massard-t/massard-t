@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>yes</title>
+</head>
+<body>
+
+  <div class="circle-bar"><div class="spinner"><div class="circle"></div></div></div><div class="menu-is-left">
+  <a href="#" class="mobile-overlay-close"><i class="sf-icon-close"></i></a><div class="menu-slideout-menu-mobile-container"><ul class="menu"><li class="menu-item-1070 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item"><a href="index.html"><span class="menu-item-text">Home</span></a></li>
+    <li class="menu-item-1069 menu-item menu-item-type-post_type menu-item-object-page"><a href="flare/index.html"><span class="menu-item-text">FLARE<sup>®</sup></span></a></li>
+    <li class="menu-item-1065 menu-item menu-item-type-post_type menu-item-object-page"><a href="about-us/index.html"><span class="menu-item-text">About us</span></a></li>
+    <li class="menu-item-1064 menu-item menu-item-type-post_type menu-item-object-page"><a href="press/index.html"><span class="menu-item-text">Press Room</span></a></li>
+    <li class="menu-item-1068 menu-item menu-item-type-post_type menu-item-object-page"><a href="imprint_en/index.html"><span class="menu-item-text">Imprint</span></a></li>
+</ul></div><ul class="alt-mobile-menu"><li><a href="my-account/index.html">Login</a></li>
+<li><a href="my-account/index.html">Sign Up</a></li>
+</ul></div>
+<div class="sf-side-slideout"><div class="vertical-menu"><div class="menu-slideout-menu-desktop-container"><ul class="menu"><li class="menu-item-1071 menu-item menu-item-type-post_type menu-item-object-page"><a href="about-us/index.html"><span class="menu-item-text">About us</span></a></li>
+        <li class="menu-item-1075 menu-item menu-item-type-post_type menu-item-object-page"><a href="press/index.html"><span class="menu-item-text">Press Room</span></a></li>
+        <li class="menu-item-1074 menu-item menu-item-type-post_type menu-item-object-page"><a href="imprint_en/index.html"><span class="menu-item-text">Imprint</span></a></li>
+    </ul></div></div></div>
+
+<div>
+
+ <div class="mobile-header-opts opts-left"><a href="#" class="mobile-menu-link menu-bars-link"><span class="menu-bars"></span></a>
+    </div><div class="logo-center has-img clearfix">
+    <a href="index.html">
+        <img class="standard" src="../wordpressrc.buddyguard.io/wp-content/uploads/2015/11/buddyguard_logo.png" alt="BuddyGuard" height="1063" width="968" /><img class="retina" src="../wordpressrc.buddyguard.io/wp-content/uploads/2015/11/buddyguard_logo.png" alt="BuddyGuard" height="531" width="484" /></a><div class="text-logo"><a href="index.html"></a></div><a href="index.html">
+    </a>
+</div>
+<div class="mobile-header-opts opts-right"></div><div class="header-wrap full-center full-header-stick page-header-standard">
+
+    <div class="header-split">
+
+        <div class="container">
+              <div class="row">
+
+                 <div class="header-left col-sm-4">
+                    <div class="aux-item"><a href="#" class="side-slideout-link menu-bars-link"><span>Menu</span></a></div>
+                </div>
+
+                <div class="logo-center has-img clearfix">
+                    <a href="index.html">
+                        <img class="standard" src="../wordpressrc.buddyguard.io/wp-content/uploads/2015/11/buddyguard_logo.png" alt="BuddyGuard" height="1063" width="968" /><img class="retina" src="../wordpressrc.buddyguard.io/wp-content/uploads/2015/11/buddyguard_logo.png" alt="BuddyGuard" height="531" width="484" /></a><div class="text-logo"><a href="index.html"></a></div><a href="index.html">
+                    </a>
+                </div>
+
+                <div class="float-menu container">
+                    <div class="menu-main-menu-container"><ul class="menu"><li class="menu-item-413 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item sf-std-menu"><a href="index.html"><span class="menu-item-text">Home</span></a></li>
+                            <li class="menu-item-412 menu-item menu-item-type-post_type menu-item-object-page sf-std-menu"><a href="flare/index.html"><span class="menu-item-text">FLARE<sup>®</sup></span></a></li>
+                        </ul></div></div>
+
+                    <div class="header-right col-sm-4">
+                        <div class="aux-item text"><a class="sf-button standard accent bordered btn-em header-sf-button" href="http://shop.buddyguard.io/"><span class="text">pre-order now</span></a></div>
+                        <div class="aux-item aux-cart-wishlist"><ul class="menu"><li class="parent shopping-bag-item"><a class="cart-contents" href="cart/index.html" title="View your shopping cart"><i class="sf-icon-cart"></i><span class="cart-text">Cart</span><span class="menu-item-title">Cart</span><span class="num-items">0</span></a><ul class="sub-menu"><li><div class="shopping-bag"><div class="loading-overlay"><i class="sf-icon-loader"></i></div><div class="bag-empty">Your cart is empty.</div></div></li></ul></li></ul></div>
+                            <div class="aux-item">
+                                <ul class="menu"><li class="parent account-item">
+                                            <a href="#"><i class="sf-icon-account"></i></a>
+                                            <ul class="sub-menu"><li class="menu-item"><a href="my-account/index.html">Login</a></li>
+                                                <li class="menu-item"><a href="my-account/index.html">Sign Up</a></li>
+                                            </ul></li>
+                                    </ul></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+    </div>
+
+
+
+
+    <div class="clearfix">
+
+
+        <div class="fancy-heading-wrap page-heading-wrap-hidden fancy-style">
+
+            <div class="page-heading fancy-heading page-heading-hidden clearfix">
+
+
+
+                <div class="heading-text container">
+
+                    <h1 class="entry-title">Home</h1>
+
+
+
+
+
+
+
+
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+        <div class="inner-page-wrap has-no-sidebar no-bottom-spacing no-top-spacing clearfix">
+
+
+            <div class="clearfix">
+
+
+                <div class="page-content hfeed clearfix">
+
+
+
+
+                    <div class="clearfix post-2 page type-page status-publish hentry">
+
+
+
+
+                        <div class="spb-row-container spb-row-content-width spb_parallax_asset sf-parallax parallax-content-height parallax-fixed spb_content_element bg-type-pattern col-sm-12 stage gradient-border-bottom col-natural" style="background-color:#393c3c;padding-left:0%;padding-right:0%;margin-top:0px;margin-bottom:0px;background-image:url(&quot;wp-content/uploads/2015/06/pattern.gif&quot;);">
+                              <div class="spb_content_element" style="padding-top:40px;padding-bottom:40px;">
+                                <div class="row">
+                                   <div class="spb-column-container col-sm-6">
+                                      <div class="spb-asset-content" style="padding:0%;">
+                                         <div class="row"><div class="blank_spacer col-sm-12 hidden-xs" style="height:60px;"></div>
+                                         </div><div class="row">
+                                           <div class="spb_content_element col-sm-12 spb_text_column">
+                                              <div class="spb-asset-content" style="padding-top:0%;padding-bottom:0%;padding-left:0%;padding-right:0%;">
+
+                                                <h1 class="white no-margin font-weight-regular">FLARE<sup><span style="font-size:.75em;">®</span></sup>:</h1>
+                                                <h1 class="gradient no-margin">Easy and intelligent home security.</h1>
+
+                                            </div>
+                                        </div> </div><div class="row">
+                                           <div class="spb_content_element spb_image noframe col-sm-12 mobile-stage-img hidden-lg hidden-md hidden-sm thumbnail-gallery-standard square-corners">
+                                              <div class="spb-asset-content"><div class="img-wrap"></div><div class="figcaption-wrap"></div></div>
+                                          </div> </div><div class="row">
+                                           <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                                              <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:3px;padding-left:0px;padding-right:0px;padding-bottom:3px;">
+
+                                                <h3 class="grey-50">A complete system packed into one beautiful design. Protect your home, sleep better at night and give yourself peace of mind: FLARE<sup>®</sup> has got your back.</h3>
+
+                                            </div>
+                                        </div> </div><div class="row">
+                                           <div class="spb_content_element col-sm-12 spb_text_column">
+                                              <div class="spb-asset-content" style="padding-top:0%;padding-bottom:0%;padding-left:0%;padding-right:0%;">
+
+                                                <a class="sf-button standard accent bordered btn-em" href="http://shop.buddyguard.io/"><span class="text">pre-order now</span></a>
+
+                                            </div>
+                                        </div> </div></div>
+                                </div> </div><div class="row">
+                                   <div class="spb-column-container col-sm-9 home-stage-img-container hidden-xs">
+                                      <div class="spb-asset-content" style="padding:0%;">
+                                         <div class="row">
+                                           <div class="spb_content_element spb_image noframe col-sm-12 stage_img thumbnail-gallery-standard square-corners">
+                                              <div class="spb-asset-content"><div class="img-wrap"><img width="1200" height="836" src="wp-content/uploads/2016/01/flare_device.png" class="attachment-full size-full" alt="flare_device" /></div><div class="figcaption-wrap"></div></div>
+                                          </div> </div></div>
+                                  </div> </div><div class="row">
+                                   <div class="spb-column-container col-sm-9 hidden-lg hidden-md">
+                                      <div class="spb-asset-content" style="padding:0%;">
+
+                                      </div>
+                                  </div> </div></div>
+                          </div><div class="spb-row-container spb-row-content-width col-sm-12 grey-border-bottom col-natural" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:80px;padding-left:0px;padding-right:0px;padding-bottom:80px;">
+                              <div class="spb_content_element">
+                                <div class="row">
+                                   <div class="spb_content_element col-sm-6 spb_text_column mt0 mb0">
+                                      <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                                        <h2 class="gradient">How do I keep my home safe?</h2>
+                                        <h2 class="gradient">What if someone breaks in?</h2>
+                                        <h2 class="gradient">How can I protect my family?</h2>
+                                        <h2 class="gradient"></h2>
+
+                                    </div>
+                                </div>
+                                <div class="spb_content_element col-sm-6 spb_text_column mt0 mb0">
+                                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:10px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                                    <h3>Meet BuddyGuard’s FLARE<sup>®</sup>, a small but powerful device that protects you and your home all by itself.</h3>
+                                    <h3>With its HD night vision camera and multiple sensors, FLARE<sup>®</sup> can even tell the difference between residents, friends and unwanted visitors.</h3>
+
+                                </div>
+                            </div> </div></div>
+                    </div><div class="spb-row-container spb-row-content-width col-sm-12 no-margin gradient-border-bottom col-natural" style="background-color:#f5f5f5;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:120px;padding-left:0px;padding-right:0px;padding-bottom:120px;">
+                          <div class="spb_content_element">
+                            <div class="row">
+                               <div class="spb_content_element col-sm-12 no-margin spb_text_column mt0 mb0">
+                                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                                    <h1 style="text-align:center;">Smarter than the rest</h1>
+
+                                </div>
+                            </div> </div><div class="row">
+                               <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                                    <h3 class="grey-50" style="text-align:center;">With its family-friendly intelligence, FLARE<sup>®</sup> understands what is going on. It can even take smart decisions to safeguard you and your family all by itself.</h3>
+
+                                </div>
+                            </div> </div><div class="row"><div class="blank_spacer col-sm-12" style="height:120px;"></div>
+                            </div><div class="row">
+                               <div class="spb_icon_box col-sm-4">
+                                  <div class="spb-asset-content">
+                                      <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/facial-recognition.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Face recognition</h3><div class="sf-icon-box-content">
+                                        <p>No face is the same: FLARE<sup>® </sup>identifies people by analyzing their features</p>
+                                    </div></div></div>
+                                </div>
+                            </div>
+                            <div class="spb_icon_box col-sm-4">
+                              <div class="spb-asset-content">
+                                  <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/voice-control.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Speech recognition</h3><div class="sf-icon-box-content">
+                                    <p>Use your voice to make yourself known or to give special instructions</p>
+                                </div></div></div>
+                            </div>
+                        </div>
+                        <div class="spb_icon_box col-sm-4">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/location-detection.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Geolocation</h3><div class="sf-icon-box-content">
+                                <p>FLARE<sup>®</sup> knows when you are leaving or arriving by the signal of your phone</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-4">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/privacy-protection.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>PrivacyGuard™</h3><div class="sf-icon-box-content">
+                                <p><span style="font-weight:400;">Live like nobody is watching: Upon authentication, the camera lens will be covered</span></p>
+                            </div></div></div>
+                        </div>
+                    </div>
+                    <div class="spb_icon_box col-sm-4">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/pet-friendly.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Pet friendly</h3><div class="sf-icon-box-content">
+                            <p>Your four-legged residents will not trigger false alarms: They are easy to recognize</p>
+                        </div></div></div>
+                    </div>
+                </div>
+                <div class="spb_icon_box col-sm-4">
+                  <div class="spb-asset-content">
+                      <div class="sf-icon-box sf-icon-box-left-icon sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/schedule.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Scheduling</h3><div class="sf-icon-box-content">
+                        <p>Out of town with a neighbor to water the plants? Guests staying? Tell FLARE<sup>®</sup></p>
+                    </div></div></div>
+                </div>
+            </div> </div></div>
+    </div><div class="spb-row-container spb-row-full-width spb_parallax_asset sf-parallax parallax-content-height parallax-fixed spb_content_element bg-type-pattern col-sm-12 no-margin grey-border-bottom hidden-xs hidden-sm col-natural" style="background-color:#f5f5f5;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:90px;padding-left:120px;padding-right:120px;padding-bottom:90px;background-image:url(&quot;wp-content/uploads/2016/01/pattern-10.gif&quot;);">
+          <div class="spb_content_element">
+            <div class="row">
+               <div class="spb_content_element col-sm-12 no-margin spb_text_column mt0 mb0">
+                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                    <h1 style="text-align:center;">Not just a pretty face</h1>
+
+                </div>
+            </div> </div><div class="row">
+               <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                  <div class="spb-asset-content" style="margin-top:0%;margin-bottom:0%;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0%;padding-left:20%;padding-right:20%;padding-bottom:0%;">
+
+                    <h3 class="grey-50" style="text-align:center;">Don’t be fooled by its sleek look: FLARE<sup>®</sup> is packed to the brim with high-tech components! Like a real guard, the device relies on all its senses to continuously protect your home.</h3>
+
+                </div>
+            </div> </div><div class="row"><div class="blank_spacer col-sm-12" style="height:30px;"></div>
+            </div><div class="row">
+               <div class="spb-column-container col-sm-3">
+                  <div class="spb-asset-content">
+                     <div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/hd-camera.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>1080p HD Camera</h3><div class="sf-icon-box-content">
+                                <p><span style="font-weight:400;">See what’s going on in HD, even in the dark thanks to its night vision</span></p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/motion-detection1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Motion Detector</h3><div class="sf-icon-box-content">
+                                <p>Even the smallest movement will not go by unnoticed, but pets are fine</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/microphone1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Microphone</h3><div class="sf-icon-box-content">
+                                <p>FLARE<sup>®</sup> understands what you are saying and it can analyze strange noises</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/speaker1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Speaker &amp; Siren</h3><div class="sf-icon-box-content">
+                                <p>Communicate directly with unwanted guests or sound the 70dB siren to chase them away</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/accelerometer1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Accelerometer</h3><div class="sf-icon-box-content">
+                                <p>Tearing the device off of the wall will not get an intruder far as it activates the alarm</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div></div>
+            </div>
+            <div class="spb-column-container col-sm-6 height-100 hidden-xs hidden-sm sf-animation">
+              <div class="spb-asset-content" style="padding:0%;">
+                 <div class="row"><div class="blank_spacer col-sm-12 hidden-xs hidden-sm" style="height:150px;"></div>
+                 </div><div class="row">
+                   <div class="spb_content_element spb_image sf-animation noframe col-sm-12 thumbnail-gallery-standard square-corners">
+                      <div class="spb-asset-content"><div class="img-wrap"><img width="800" height="800" src="wp-content/uploads/2015/11/rendering_gradient-e1447327847727.png" class="attachment-full size-full" alt="rendering_gradient" /></div><div class="figcaption-wrap"></div></div>
+                  </div> </div></div>
+          </div>
+          <div class="spb-column-container col-sm-3">
+              <div class="spb-asset-content">
+                 <div class="row">
+                   <div class="spb_icon_box col-sm-12">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/temperature-sensor1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Temperature sensor</h3><div class="sf-icon-box-content">
+                            <p>FLARE<sup>®</sup> can detect a person in the room by sensing the rise in temperature</p>
+                        </div></div></div>
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_icon_box col-sm-12">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/wifi1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>WiFi</h3><div class="sf-icon-box-content">
+                            <p>Free of cables and hassle, FLARE<sup>®</sup> does everything over your WiFi</p>
+                        </div></div></div>
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_icon_box col-sm-12">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/battery1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Batteries</h3><div class="sf-icon-box-content">
+                            <p>No electricity, no problem: FLARE<sup>®</sup> will continue operation up to three days</p>
+                        </div></div></div>
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_icon_box col-sm-12">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/06/3g-module_new.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>3G</h3><div class="sf-icon-box-content">
+                            <p>With BuddySIM activated, your home will always be protected, even when your WiFi is down</p>
+                        </div></div></div>
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_icon_box col-sm-12">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/bluetooth1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Bluetooth</h3><div class="sf-icon-box-content">
+                            <p>Allow FLARE<sup>®</sup> to communicate with other smart home devices through IFTTT</p>
+                        </div></div></div>
+                    </div>
+                </div> </div></div>
+        </div> </div></div>
+</div><div class="spb-row-container spb-row-content-width spb_parallax_asset sf-parallax parallax-content-height parallax-fixed spb_content_element bg-type-pattern col-sm-12 no-margin grey-border-bottom hidden-lg hidden-md col-natural" style="background-color:#f5f5f5;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:80px;padding-left:0px;padding-right:0px;padding-bottom:0px;background-image:url(&quot;wp-content/uploads/2016/01/pattern-10.gif&quot;);">
+		<div class="spb_content_element">
+            <div class="row">
+               <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                    <h1 style="text-align:center;">Not just a pretty face</h1>
+
+                </div>
+            </div> </div><div class="row">
+               <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                  <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                    <h3 class="grey-50" style="text-align:center;">Don’t be fooled by its sleek look: FLARE<sup>®</sup> is packed to the brim with high-tech components! Like a real guard, the device relies on all its senses to continuously protect your home.</h3>
+
+                </div>
+            </div> </div><div class="row"><div class="blank_spacer col-sm-12" style="height:30px;"></div>
+            </div><div class="row">
+               <div class="spb-column-container col-sm-12 height-100 sf-animation">
+                  <div class="spb-asset-content" style="padding:0%;">
+                     <div class="row">
+                       <div class="spb_content_element spb_image sf-animation noframe col-sm-12 thumbnail-gallery-standard square-corners">
+                          <div class="spb-asset-content"><div class="img-wrap"><img width="800" height="800" src="wp-content/uploads/2015/11/rendering_gradient-e1447327847727.png" class="attachment-full size-full" alt="rendering_gradient" /></div><div class="figcaption-wrap"></div></div>
+                      </div> </div></div>
+              </div> </div><div class="row">
+               <div class="spb-column-container col-sm-12">
+                  <div class="spb-asset-content">
+                     <div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/hd-camera.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>1080p HD Camera</h3><div class="sf-icon-box-content">
+                                <p>See what’s going on in HD, even in the dark thanks to its night vision</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/motion-detection1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Motion Detector</h3><div class="sf-icon-box-content">
+                                <p>Even the smallest movement will not go by unnoticed, but pets are fine</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/microphone1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Microphone</h3><div class="sf-icon-box-content">
+                                <p>FLARE<sup>®</sup> understands what you are saying and it can analyze strange noises</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/speaker1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Speaker &amp; Siren</h3><div class="sf-icon-box-content">
+                                <p>Communicate directly with unwanted guests or sound the 70dB siren to chase them away</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/accelerometer1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Accelerometer</h3><div class="sf-icon-box-content">
+                                <p>Tearing the device off of the wall will not get an intruder far as it activates the alarm</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/temperature-sensor1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Temperature sensor</h3><div class="sf-icon-box-content">
+                                <p>FLARE<sup>®</sup> can detect a person in the room by sensing the rise in temperature</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/wifi1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>WiFi</h3><div class="sf-icon-box-content">
+                                <p>Free of cables and hassle, FLARE<sup>®</sup> does everything over your WiFi</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/battery1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Batteries</h3><div class="sf-icon-box-content">
+                                <p>No electricity, no problem: FLARE<sup>®</sup> will continue operation up to three days</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/3g-module1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>3G</h3><div class="sf-icon-box-content">
+                                <p>With BuddySIM activated, your home will always be protected, even when your WiFi is down</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row">
+                       <div class="spb_icon_box col-sm-12">
+                          <div class="spb-asset-content">
+                              <div class="sf-icon-box sf-icon-box-left-icon-alt sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/bluetooth1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3>Bluetooth</h3><div class="sf-icon-box-content">
+                                <p>Allow FLARE<sup>®</sup> to communicate with other smart home devices through IFTTT</p>
+                            </div></div></div>
+                        </div>
+                    </div> </div><div class="row"><div class="blank_spacer col-sm-12" style="height:80px;"></div>
+                    </div></div>
+            </div> </div></div>
+    </div><div class="spb_swift-slider spb_content_element col-sm-12 gradient-border-bottom">
+          <div class="spb-asset-content">
+             <div class="swift-slider-outer"><div class="swift-slider swiper-container"><div class="swiper-wrapper"><div class="swiper-slide image-slide dynamic-header-change" style="background-image:url(&quot;wp-content/uploads/2015/11/livingroom_02_02.jpg&quot;);background-color:#2e3231;"><div class="caption-wrap container"><div class="caption-content"><h2 class="caption-title">Discreet but present</h2><div class="caption-excerpt"><h3 class="white" style="margin-bottom:3%;">FLARE<sup>®</sup> looks right in every home</h3>
+                <p>Whether you are living in an apartment or<br />
+                    a mansion, downtown or in the woods; FLARE® has got you covered.</p>
+                </div></div></div></div><div class="swiper-slide image-slide dynamic-header-change" style="background-image:url(&quot;wp-content/uploads/2015/11/livingroom_02_01.jpg&quot;);background-color:#2e3231;"><div class="caption-wrap container"><div class="caption-content"><h2 class="caption-title">Discreet but present</h2><div class="caption-excerpt"><h3 class="white" style="margin-bottom:3%;">FLARE<sup>®</sup> looks right in every home</h3>
+                <p>Whether you are living in an apartment or<br />
+                    a mansion, downtown or in the woods; FLARE® has got you covered.</p>
+                </div></div></div></div><div class="swiper-slide image-slide dynamic-header-change" style="background-image:url(&quot;wp-content/uploads/2015/11/livingroom_02_03.jpg&quot;);background-color:#2e3231;"><div class="caption-wrap container"><div class="caption-content"><h2 class="caption-title">Discreet but present</h2><div class="caption-excerpt"><h3 class="white" style="margin-bottom:3%;">FLARE<sup>®</sup> looks right in every home</h3>
+                <p>Whether you are living in an apartment or<br />
+                    a mansion, downtown or in the woods; FLARE® has got you covered.</p>
+                </div></div></div></div></div><a class="swift-slider-prev" href="#"><i class="sf-icon-slider-chevron-prev"></i></a><h4><a class="swift-slider-prev" href="#">Previous</a></h4><a class="swift-slider-prev" href="#"></a><a class="swift-slider-next" href="#"><i class="sf-icon-slider-chevron-next"></i></a><h4><a class="swift-slider-next" href="#">Next</a></h4><a class="swift-slider-next" href="#"></a><div class="swift-slider-pagination"><div class="dot"><span></span></div><div class="dot"><span></span></div><div class="dot"><span></span></div></div><div class="circle-bar"><div class="spinner"><div class="circle"></div></div></div></div></div>
+            </div>
+        </div> <div class="spb-row-container spb-row-content-width col-sm-12 no-margin gradient-border-bottom col-natural" style="background-color:#ffffff;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:90px;padding-left:0px;padding-right:0px;padding-bottom:90px;">
+              <div class="spb_content_element">
+                <div class="row">
+                   <div class="spb_content_element col-sm-12 no-margin spb_text_column mt0 mb0">
+                      <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                        <h1 style="text-align:center;">FLARE<sup>®</sup>: For a safe home</h1>
+
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                      <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                        <h3 class="grey-50" style="text-align:center;">A complete home security system in one device</h3>
+
+                    </div>
+                </div> </div><div class="row">
+                   <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                      <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                        <p style="text-align:center;"><a href="flare/index.html">Learn all about FLARE<sup>® </sup>›</a></p>
+
+                    </div>
+                </div> </div><div class="row"><div class="blank_spacer col-sm-12" style="height:60px;"></div>
+                </div><div class="row">
+                   <div class="spb_icon_box col-sm-3">
+                      <div class="spb-asset-content">
+                          <div class="sf-icon-box sf-icon-box-standard sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/hassle-free1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3></h3><div class="sf-icon-box-content">
+                            <h4>Hassle-free</h4>
+                            <p>A smartphone and a WiFi signal at home is all you need</p>
+                        </div></div></div>
+                    </div>
+                </div>
+                <div class="spb_icon_box col-sm-3">
+                  <div class="spb-asset-content">
+                      <div class="sf-icon-box sf-icon-box-standard sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/artificial-intelligence1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3></h3><div class="sf-icon-box-content">
+                        <h4>Smart Activation</h4>
+                        <p>FLARE® will activate itself automatically after the last person left home.</p>
+                    </div></div></div>
+                </div>
+            </div>
+            <div class="spb_icon_box col-sm-3">
+              <div class="spb-asset-content">
+                  <div class="sf-icon-box sf-icon-box-standard sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/privacy-protection1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3></h3><div class="sf-icon-box-content">
+                    <h4>PrivacyGuard™</h4>
+                    <p>FLARE<sup>®</sup> will never spy on you: It covers the lens when you are home.</p>
+                </div></div></div>
+            </div>
+        </div>
+        <div class="spb_icon_box col-sm-3">
+          <div class="spb-asset-content">
+              <div class="sf-icon-box sf-icon-box-standard sf-animation sf-icon- has-image"><span class="sf-icon image-display sf-icon-float-none"><img src="wp-content/uploads/2015/11/one-single-device1.svg" alt="icon box image" /></span><div class="sf-icon-box-content-wrap clearfix"><h3></h3><div class="sf-icon-box-content">
+                <h4>Minimalistic</h4>
+                <p>FLARE<sup>®</sup> is a complete security system packed in one device</p>
+            </div></div></div>
+        </div>
+    </div> </div></div>
+</div><div class="spb_swift-slider spb_content_element col-sm-12 darkgrey-border-bottom">
+		<div class="spb-asset-content">
+			<div class="swift-slider-outer"><div class="swift-slider swiper-container"><div class="swiper-wrapper"><div class="swiper-slide image-slide dynamic-header-change" style="background-image:url(&quot;wp-content/uploads/2015/11/rural_couple.jpg&quot;);background-color:#2e3231;"><div class="overlay" style="background-color:#2e3231;"></div><div class="caption-wrap container"><div class="caption-content"><div class="caption-excerpt"><h1 class="font-weight-regular">We believe that home security should be easy, smart and affordable.</h1>
+            <h1 class="gradient" style="margin-bottom:80px;">For everybody.</h1>
+            <h3>FLARE® works right out of the box, requires zero technical knowledge<br />
+                and is suitable for each and every home. With our 90-day guarantee and 2 years warranty, we stand firm behind our product.</h3>
+            </div></div></div></div></div><div class="swift-slider-pagination pagination-hidden"><div class="dot"><span></span></div></div><div class="circle-bar"><div class="spinner"><div class="circle"></div></div></div></div></div>
+        </div>
+    </div> <div class="spb-row-container spb-row-content-width col-sm-12 darkgrey-border-bottom col-natural" style="background-color:#ffffff;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:40px;padding-left:0px;padding-right:0px;padding-bottom:40px;">
+          <div class="spb_content_element">
+            <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
+                   <div class="spb-bg-color-wrap">
+                      <div class="spb-asset-content spb_wrapper slider-wrap">
+                         <div class="heading-wrap"><h3 class="spb-heading spb-center-heading">Read what the media has to say about FLARE<sup>®</sup></h3></div>
+                         <div class="flexslider testimonials-slider content-slider"><ul class="slides cS-hidden"><li class="testimonial"><div class="slide-content-wrap"><div class="testimonial-text text-large">“Home security just got personal: Flare recognises faces and fools burglars by playing the sound of dishes being washed.”
+
+                            <a href="http://www.dailymail.co.uk/sciencetech/article-3100964/Home-security-gets-personal-Flare-recognises-familiar-faces-fools-burglars-playing-noise-dishes-washed.html" class="textlink">READ MORE ›</a></div><cite>Daily Mail</cite></div></li><li class="testimonial"><div class="slide-content-wrap"><div class="testimonial-text text-large">“Flare<sup>®</sup> can tell the difference between you and an intruder and will automatically turn its camera and microphone off if it recognizes your face.”
+
+                            <a href="http://www.cnet.com/products/buddyguard-flare/" class="textlink">READ MORE ›</a></div><cite>CNET</cite></div></li><li class="testimonial"><div class="slide-content-wrap"><div class="testimonial-text text-large">“BuddyGuard promises to be a life companion that protects your home when you’re out and gives you some space when you’re in.”
+
+                            <a href="http://techmog.com/4767/buddyguards-device-has-a-flare-for-home-security/" class="textlink">READ MORE ›</a></div><cite>Techmog</cite></div></li><li class="testimonial"><div class="slide-content-wrap"><div class="testimonial-text text-large">“It's a device packed with clever ideas. The accelerometer detects if someone tries to tamper with it, for example, while the loudspeaker can broadcast sounds (like people talking) to give the impression you're at home.”
+
+                            <a href="http://www.gizmag.com/flare-home-security/37532/" class="textlink">READ MORE ›</a></div><cite>Gizmag</cite></div></li></ul></div>
+                        </div>
+                    </div>
+                </div> </div>
+        </div><div class="spb-row-container spb-row-content-width spb_parallax_asset sf-parallax parallax-content-height parallax-fixed spb_content_element bg-type-pattern col-sm-12 darkgrey-border-bottom col-natural" style="background-color:#2d3231;margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:60px;padding-left:0px;padding-right:0px;padding-bottom:60px;background-image:url(&quot;wp-content/uploads/2015/06/icon_pattern.png&quot;);">
+              <div class="spb_content_element">
+                <div class="row">
+                   <div class="spb_content_element col-sm-12 spb_text_column mt0 mb0">
+                      <div class="spb-asset-content" style="margin-top:0px;margin-bottom:0px;border-top:0px;border-left:0px;border-right:0px;border-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;padding-bottom:0px;">
+
+                        <h2 class="white no-margin" style="text-align:center;margin-top:40px;">Make your home safe with FLARE<sup>®</sup>:</h2>
+                        <h2 class="gradient no-margin" style="text-align:center;margin-bottom:40px;">Easy, intelligent and affordable – free shipping worldwide</h2>
+                        <p style="text-align:center;"><a class="sf-button standard accent bordered btn-em" href="http://shop.buddyguard.io/"><span class="text">pre-order now</span></a>
+
+                        </p></div>
+                    </div> </div></div>
+            </div><div class="link-pages"></div>
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+
+<div>
+
+    <div class="container">
+            <div class="row clearfix">
+                <div class="col-sm-3">
+                    <div class="textwidget"><strong>FLARE<sup>®</sup></strong><br /><a href="flare/index.html">Meet FLARE<sup>®</sup></a><br /><a href="specs/index.html">Tech Specs</a><br /><a href="compare/index.html">Compare</a><br /><a href="buy-flare/index.html">Pre-order FLARE<sup>®</sup></a></div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="textwidget"><strong>Support</strong><br /><a href="faq/index.html">FAQs</a><br /><a href="support/index.html">Support Center</a><br /><a href="contact-us/index.html">Contact Us</a><br /></div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="textwidget"><strong>Company</strong><br /><a href="about-us/index.html">About Us</a><br /><a href="press/index.html">Press Room</a><br /><a href="careers/index.html">Careers</a><br /><a href="partners/index.html">Partners</a><br /><a href="Legal/index.html">Legal</a><br /><a href="imprint_en/index.html">Imprint</a><br /></div>
+                            </div>
+                            <div class="col-sm-3">
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+
+
+        </div>
+
+
+        <div class="animate-top"><i class="sf-icon-chevron-up"></i></div>
+
+        <div class="fw-video-area">
+            <div class="fw-video-close"><i class="sf-icon-close"></i></div>
+            <div class="fw-video-wrap"></div>
+        </div>
+        <div class="fw-video-spacer"></div>
+
+        <div class="has-carousel has-parallax"></div>
+        <div></div>
+
+        <div></div>
+
+
+        <div class="sf-container-overlay">
+            <div class="sf-loader">
+            </div>
+        </div>
+
+
+            <div>
+                <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/961975162/?value=0&amp;guid=ON&amp;script=0" /></div>
+
+</body>
+</html>
