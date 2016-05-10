@@ -1,9 +1,9 @@
-var map_wrapper = 'map_container';	
-var longitude = 45.124099;
-var latitude = -123.113634;
+var map_wrapper = 'map_container';
+var longitude =  2.3047680;
+var latitude = 48.9045260;
 var bubble_content =	"<p class='map_contacts'>" +
 						"<span>Address : </span>" +
-						"550 Hershell Hollow Road Johnson City, TN 37615" +
+						"25 Rue de Paris, Clichy" +
 						"</p>";
 
 
