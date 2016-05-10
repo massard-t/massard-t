@@ -1,0 +1,63 @@
+/*
+ * Legal Disclaimer
+ *
+ * These custom are licensed only for use on these domains and their subdomains:
+ * www.buddyguard.io
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2015
+ */
+
+
+/* Complete */
+
+@font-face {
+    font-family: 'lineto-typ1451-regular';
+    src:url('custom/lineto-typ1451-regular/lineto-typ1451-regular.eot');
+    src:url('custom/lineto-typ1451-regular/lineto-typ1451-regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('custom/lineto-typ1451-regular/lineto-typ1451-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-typ1451-medium';
+    src:url('custom/lineto-typ1451-medium/lineto-typ1451-medium.eot');
+    src:url('custom/lineto-typ1451-medium/lineto-typ1451-mediumd41d.eot?#iefix') format('embedded-opentype'),
+        url('custom/lineto-typ1451-medium/lineto-typ1451-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-typ1451-bold';
+    src:url('custom/lineto-typ1451-bold/lineto-typ1451-bold.eot');
+    src:url('custom/lineto-typ1451-bold/lineto-typ1451-boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('custom/lineto-typ1451-bold/lineto-typ1451-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-typ1451-light';
+    src:url('custom/lineto-typ1451-light/lineto-typ1451-light.eot');
+    src:url('custom/lineto-typ1451-light/lineto-typ1451-lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('custom/lineto-typ1451-light/lineto-typ1451-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'budicon';
+  src: url('custom/budicon/budicon8122.eot?42886572');
+  src: url('custom/font/budicon8122.html?42886572#iefix') format('embedded-opentype'),
+       url('custom/font/budicon8122-2.html?42886572') format('woff'),
+       url('custom/font/budicon8122-3.html?42886572') format('truetype'),
+       url('custom/font/budicon8122-4.html?42886572#budicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
